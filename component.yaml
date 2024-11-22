@@ -1,0 +1,6 @@
+schemaVersion: 1.0
+endpoints:
+- name: cold-mail-gen-ai
+  service:
+     port: 8501
+  type: WS

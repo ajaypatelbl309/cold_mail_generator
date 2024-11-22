@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+unstructured
+selenium
+chromadb
+streamlit
+pandas
+python-dotenv

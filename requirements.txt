@@ -4,7 +4,7 @@ langchain-community
 langchain-openai
 unstructured
 selenium
-chromadb
 streamlit
+streamlit-chromadb-connection
 pandas
 python-dotenv
